@@ -4,12 +4,16 @@
 ### what is a InstaBrute
 
 Instagram contained two distinct vulnerabilities that allowed an attacker to brute-force
+<br>
 passwords of user accounts. Combined with user enumeration, a weak password policy
-no 2FA nor other mitigating security controls, this could have allowed an attacker to compromise 
-many accounts without any user interaction, including high-profile ones. 
+<br>
+no 2FA nor other mitigating security controls, this could have allowed an attacker to compromise
+<br>
+many accounts without any user interaction, including high-profile ones.
+<br>
 Facebook fixed both issues and awarded a combined bounty of $5.000.
-
-
+<br>
+<br>
 ### Download&install
 ```
 apt-get install tor
